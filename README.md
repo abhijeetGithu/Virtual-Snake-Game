@@ -29,7 +29,7 @@ The game requires the following dependencies:
 Python (version 3.6 or above)
 OpenCV (Computer Vision library)
 NumPy (Numerical Computing library)
-
+```
 ## Contributing
 Contributions to the computer vision snake game are welcome! If you find any issues or have ideas for improvements, please submit a pull request. Make sure to follow the project's coding conventions and guidelines.
 
