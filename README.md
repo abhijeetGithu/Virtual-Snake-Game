@@ -33,6 +33,8 @@ NumPy (Numerical Computing library)
 ## Contributing
 Contributions to the computer vision snake game are welcome! If you find any issues or have ideas for improvements, please submit a pull request. Make sure to follow the project's coding conventions and guidelines.
 
+## License
+This project is licensed under the MIT License.
 ## Acknowledgements
 This snake game is inspired by the classic snake game and incorporates computer vision technology. The computer vision algorithms used in this game are based on OpenCV.
 
