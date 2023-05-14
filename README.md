@@ -44,4 +44,4 @@ Special thanks to the contributors who helped improve and test this project.
 
 Feel free to modify and adapt the README file as needed for your specific project.
 
-![alt text](https://i.ytimg.com/vi/ZiwZaAVbXQo/maxresdefault.jpg)
+![alt text]([https://i.ytimg.com/vi/ZiwZaAVbXQo/maxresdefault.jpg](https://dipesg.github.io/All-AI/images/snake1.png))
